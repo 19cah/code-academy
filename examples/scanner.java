@@ -1,10 +1,16 @@
-import java.util.Scanner;
+import java.util.Scanner;;
 
-class apples {
-	public static void main(String args[]) {
-  
-		System.out.print("Enter your name: ");
-    Scanner scanFromKeyboard = new Scanner(System.in);
-		System.out.println("Your name is " + scanFromKeyboard.nextLine());
+class apples{
+		public static void main(String args[]) {
+			
+			//Ask User Input
+			System.out.print("Enter your name ");
+			
+			//Using Scanner
+			Scanner userInput = new Scanner(System.in);
+			
+			//Output
+			System.out.println("Your name is " + userInput.nextLine());
+		
 	}
 }
