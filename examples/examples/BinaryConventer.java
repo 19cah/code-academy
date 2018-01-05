@@ -10,7 +10,7 @@ public class BinaryConverter {
         }
     }
     
-    /*
+    /* Abraham
      * pre: none
      * post: returns a String with base10Num in base 2
      */
