@@ -2,8 +2,7 @@ import java.util.Arrays;
 import java.awt.Rectangle;
 
 /**
- * A sample of a ploymorphic method.
- * @author scottm
+ * A sample of a ploymorphic method
  *
  */
 public class CreateASet {
