@@ -1,4 +1,3 @@
-// Mike Scott
 // 2d array manipulation examples
 
 //import
