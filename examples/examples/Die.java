@@ -4,7 +4,6 @@ import java.util.Random;
  * Models a playing die with sides numbered 1 to N.
  * All sides have uniform probablity of being rolled.
  *
- * @author Summer CS 307 class
  */
 public class Die
 {   public static final int DEFAULT_SIDES = 6;
