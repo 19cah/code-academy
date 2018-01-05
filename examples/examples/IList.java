@@ -2,8 +2,6 @@
  * A class that represents a node to be used in a linked list.
  * These nodes are singly linked.
  *
- * @author Mike Scott
- * @version July 27, 2005
  */
 
  public class ListNode
