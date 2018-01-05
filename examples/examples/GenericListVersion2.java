@@ -6,8 +6,6 @@ import java.util.Iterator;
  * List resizes automatically. Used to illustrate 
  * various design and implementation details of 
  * a class in Java.
- * 
- * @author scottm
  *
  */
 public class GenericListVersion2 implements Iterable{
