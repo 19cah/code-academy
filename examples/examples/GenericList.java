@@ -4,7 +4,6 @@
  * various design and implementation details of 
  * a class in Java.
  * 
- * @author scottm
  *
  */
 public class GenericList{
