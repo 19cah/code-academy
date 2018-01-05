@@ -1,4 +1,3 @@
-//Mike Scott
 //examples of array manipulations
 
 public class ArrayExamples
