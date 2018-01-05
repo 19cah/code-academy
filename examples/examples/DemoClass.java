@@ -1,6 +1,4 @@
 /******************************************************************/
-/* Author: CS307 Course Staff                                     */
-/* Date: February 14, 2005                                        */
 /* Description: Demos constructors, static vs instance methods,   */
 /*              and method overloading.                           */
 /******************************************************************/
