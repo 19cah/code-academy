@@ -18,6 +18,7 @@ public class EightQueens {
 	}
 
 	/**
+	 * 
 	 * determine if the chess board represented by board is a safe set up
 	 * <p>pre: board != null, board.length > 0, board is a square matrix.
 	 * (In other words all rows in board have board.length columns.),
