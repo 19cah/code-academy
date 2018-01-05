@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.awt.Rectangle;
 
 /**
+ *
  * A sample of a ploymorphic method
  *
  */
