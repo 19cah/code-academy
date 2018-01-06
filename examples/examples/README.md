@@ -32,7 +32,6 @@
 - **Airlines example**. Determine if airlines can be moved from airline to another based on network of airline partners. Here is a sample input file.
 - **Minesweeper**. Another example of recursion from the game minesweeper.
 - **GenericListVersion2**. Changed the GenericList class so that it implements the Iterable interface in order to demonstrate how to implement an iterator using an inner class.
-
 GenericListVersion3. Changed GenericList so it is generic based on Java generics syntax instead of relying on Object.
 
 ListNode. A singly linked node class used to build linked lists
