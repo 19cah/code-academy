@@ -35,7 +35,6 @@
 - **GenericListVersion3**. Changed GenericList so it is generic based on Java generics syntax instead of relying on Object.
 - **ListNode. A singly linked node class used to build linked lists
 IList. A simple list interface
-
 LinkedList. Similar to the LinkedList developed in class. Does not contain all the methods you would expect of a LinkedList. Also implements the iterator remove method in O(N) time. An O(1) time remove method is possible.
 
 UnsortedHashSet - An unsorted set that uses a hashtable with closed address hashing to store values. Currently only the add method is implemented.
