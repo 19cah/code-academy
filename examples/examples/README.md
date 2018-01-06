@@ -38,10 +38,10 @@
 - **LinkedList**. Similar to the LinkedList developed in class. Does not contain all the methods you would expect of a LinkedList. Also implements the iterator remove method in O(N) time. An O(1) time remove method is possible.
 - **UnsortedHashSet** - An unsorted set that uses a hashtable with closed address hashing to store values. Currently only the add method is implemented.
 
-UnsortedSetTest - A method to compare Java's TreeSet and HashSet to the BianrySearchTree, UnsortedSet, and UnsortedHashSet classes developed in class. Note you need a lot of other files for this to work.
+- **UnsortedSetTest - A method to compare Java's TreeSet and HashSet to the BianrySearchTree, UnsortedSet, and UnsortedHashSet classes developed in class. Note you need a lot of other files for this to work.
 
-SimpleWordCount - Program demonstrating use of a map to count the frequency of words in a file.
+- **SimpleWordCount - Program demonstrating use of a map to count the frequency of words in a file.
 
-WordCount - Program  that compares counting words in files using an ArrayList and a Map.
+- **WordCount - Program  that compares counting words in files using an ArrayList and a Map.
 
  
