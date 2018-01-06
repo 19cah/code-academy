@@ -34,7 +34,6 @@
 - **GenericListVersion2**. Changed the GenericList class so that it implements the Iterable interface in order to demonstrate how to implement an iterator using an inner class.
 - **GenericListVersion3**. Changed GenericList so it is generic based on Java generics syntax instead of relying on Object.
 - **ListNode. A singly linked node class used to build linked lists
-
 IList. A simple list interface
 
 LinkedList. Similar to the LinkedList developed in class. Does not contain all the methods you would expect of a LinkedList. Also implements the iterator remove method in O(N) time. An O(1) time remove method is possible.
