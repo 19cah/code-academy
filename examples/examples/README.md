@@ -40,7 +40,7 @@
 
 - **UnsortedSetTest - A method to compare Java's TreeSet and HashSet to the BianrySearchTree, UnsortedSet, and UnsortedHashSet classes developed in class. Note you need a lot of other files for this to work.
 
-- **SimpleWordCount - Program demonstrating use of a map to count the frequency of words in a file.
+- **SimpleWordCount** - Program demonstrating use of a map to count the frequency of words in a file.
 
 - **WordCount** - Program  that compares counting words in files using an ArrayList and a Map.
 
