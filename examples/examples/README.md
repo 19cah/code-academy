@@ -25,7 +25,7 @@
 - **Die class**. A class that models a playing die.
 - **DemoClass**: This illustrates some of the more confusing concepts in class syntax and mechanics such as constructors, static vs. instance methods, and method overloading. 
 - **Stopwatch class**. A class for measuring how long it takes for a program to run.
-- **Documentation for Stopwatch class.
+- **Documentation for Stopwatch class**.
 
 Create a Set. A method that using polymorphism to create a set from an array.
 
