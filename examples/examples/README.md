@@ -26,8 +26,7 @@
 - **DemoClass**: This illustrates some of the more confusing concepts in class syntax and mechanics such as constructors, static vs. instance methods, and method overloading. 
 - **Stopwatch class**. A class for measuring how long it takes for a program to run.
 - **Documentation for Stopwatch class**.
-
-Create a Set. A method that using polymorphism to create a set from an array.
+-- **Create a Set. A method that using polymorphism to create a set from an array.
 
 Recursion examples. Includes examples on finding space taken up by files in a directory including all files in all subdirectories, recursive factorial, recursive power, recursive Fibonacci numbers, and a simple knapsack problem.
 
