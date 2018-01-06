@@ -30,7 +30,7 @@
 - **Recursion examples**. Includes examples on finding space taken up by files in a directory including all files in all subdirectories, recursive factorial, recursive power, recursive Fibonacci numbers, and a simple knapsack problem.
 - **Eight Queens example**. Code to find a a solution to an N queens problem. Note the queensAreSafe method has not been completed.
 - **Airlines example**. Determine if airlines can be moved from airline to another based on network of airline partners. Here is a sample input file.
-Minesweeper. Another example of recursion from the game minesweeper.
+- **Minesweeper. Another example of recursion from the game minesweeper.
 
 GenericListVersion2. Changed the GenericList class so that it implements the Iterable interface in order to demonstrate how to implement an iterator using an inner class.
 
