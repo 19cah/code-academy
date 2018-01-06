@@ -42,6 +42,6 @@
 
 - **SimpleWordCount - Program demonstrating use of a map to count the frequency of words in a file.
 
-- **WordCount - Program  that compares counting words in files using an ArrayList and a Map.
+- **WordCount** - Program  that compares counting words in files using an ArrayList and a Map.
 
  
