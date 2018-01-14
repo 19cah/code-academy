@@ -1,4 +1,4 @@
 - 1
 - 2
 - 3
-- 4. [Java Output Formatting](004-java-output-formatting)
+- 4 [Java Output Formatting](004-java-output-formatting)
