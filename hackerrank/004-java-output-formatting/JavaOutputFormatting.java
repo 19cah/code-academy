@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class JavaOutputFormatting {
 
     public static void main(String[] args) {
             
