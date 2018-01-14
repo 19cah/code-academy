@@ -10,4 +10,8 @@ Given an integer,`N` , print its first `10` multiples. Each multiple `N x i (whe
 
 A single integer, .
 
+## Constraints
+
+`2 <= N <= 20`
+
 [See anwer](005-java-loops-1)
