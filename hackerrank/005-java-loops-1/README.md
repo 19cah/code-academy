@@ -19,4 +19,8 @@ A single integer, .
 Print 10 lines of output; each line `i(where where 1 <= i <= 10)` contains the  of `N * i` in the form: 
 `N * i = result`.
 
+## Sample Input
+
+> 2
+
 [See anwer](005-java-loops-1)
