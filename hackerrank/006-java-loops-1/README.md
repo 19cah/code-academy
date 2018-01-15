@@ -38,4 +38,4 @@ Print 10 lines of output; each line `i(where where 1 <= i <= 10)` contains the  
 2 x 10 = 20
 ```
 
-[See anwer](005-java-loops-1)
+[See anwer](006-java-loops-1)
