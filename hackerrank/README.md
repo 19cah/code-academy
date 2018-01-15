@@ -1,4 +1,4 @@
-- 1 [Welcome to Java](001-wecome-to-java)
+- 1 [Welcome to Java](001-welcome-to-java)
 - 2
 - 3
 - 4 [Java Output Formatting](004-java-output-formatting)
