@@ -1,6 +1,6 @@
 - 1 [Welcome to Java](001-welcome-to-java)
 - 2 [Java Stdin and Stdout 1](002-java-stdin-and-stdout1)
-- 3
+- 3 003-java-if-else
 - 4 
 - 5 [Java Output Formatting](005-java-output-formatting)
 - 6 [Java Loops 1](006-java-loops-1)
