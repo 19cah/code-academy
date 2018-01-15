@@ -1,5 +1,6 @@
 - 1 [Welcome to Java](001-welcome-to-java)
 - 2
 - 3
-- 4 [Java Output Formatting](004-java-output-formatting)
-- 5 [Java Loops 1](005-java-loops-1)
+- 4 
+- 5[Java Output Formatting](005-java-output-formatting)
+- 6 [Java Loops 1](006-java-loops-1)
