@@ -1,5 +1,5 @@
 - 1 [Welcome to Java](001-welcome-to-java)
-- 2 002-java-stdin-and-stdout1
+- 2 [Java Stdin and Stdout 1](002-java-stdin-and-stdout1)
 - 3
 - 4 
 - 5 [Java Output Formatting](005-java-output-formatting)
