@@ -54,4 +54,4 @@ There are  lines of input, and each line contains a single integer.
 125
 ```
 
-See answer 
+[See answer ](JavaStdInAndStdOut1.java)
