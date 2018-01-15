@@ -2,5 +2,5 @@
 - 2
 - 3
 - 4 
-- 5[Java Output Formatting](005-java-output-formatting)
+- 5 [Java Output Formatting](005-java-output-formatting)
 - 6 [Java Loops 1](006-java-loops-1)
