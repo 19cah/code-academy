@@ -18,8 +18,9 @@ public class GetIpAddress
         }
     }
 }
-
+/*
 Output :
 
 
-IP address of the machine: 192.168.1.36
+IP address of the machine: {your.ip.address}
+*/
