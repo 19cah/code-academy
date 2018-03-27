@@ -1,1 +1,4 @@
-# [Colors](Colors.java)
+# Java  Utils
+
+- [Colors](Colors.java)
+- [Binary Search](BinarySeach.java)
