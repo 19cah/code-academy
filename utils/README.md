@@ -2,5 +2,6 @@
 
 - [Colors](Colors.java)
 - [Binary Search](BinarySeach.java)
-- [DeleteFromConsole](DeleteFromConsole.java)
-- [GreatestCommonDivisor](GreatestCommonDivisor.java)
+- [Delete From Console](DeleteFromConsole.java)
+- [Greatest Common Divisor](GreatestCommonDivisor.java)
+- [Towers of Hanoy](TowersOfHanoi.java)
